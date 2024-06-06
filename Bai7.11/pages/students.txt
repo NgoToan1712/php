@@ -1,0 +1,12 @@
+1
+Nguyen Van B
+0022-02-01
+111
+22
+./avatar/2_bye.gif
+2
+Nguyen Van XYZ
+0111-01-01
+ava
+12
+./avatar/default.png
